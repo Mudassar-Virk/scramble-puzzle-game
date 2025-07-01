@@ -1,0 +1,24 @@
+﻿  Source.cpp
+  mission1.cpp
+C:\Users\UC\Downloads\Gameprojectupdated\mission1.cpp(130,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\UC\Downloads\Gameprojectupdated\mission1.cpp(148,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\UC\Downloads\Gameprojectupdated\mission1.cpp(229,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\UC\Downloads\Gameprojectupdated\mission1.cpp(253,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\UC\Downloads\Gameprojectupdated\mission1.cpp(334,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\UC\Downloads\Gameprojectupdated\mission1.cpp(356,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\UC\Downloads\Gameprojectupdated\mission1.cpp(443,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\UC\Downloads\Gameprojectupdated\mission1.cpp(465,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\UC\Downloads\Gameprojectupdated\mission1.cpp(552,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\UC\Downloads\Gameprojectupdated\mission1.cpp(574,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\UC\Downloads\Gameprojectupdated\mission1.cpp(692,107): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\UC\Downloads\Gameprojectupdated\mission1.cpp(692,86): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Gameproject.vcxproj -> C:\Users\UC\Downloads\Gameprojectupdated\Debug\Gameproject.exe
